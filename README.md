@@ -52,7 +52,7 @@ Included popups that provide additional information about the earthquake when it
 
 Created a legend that will provide context for your map data.
 
-<img width="1076" alt="image" src="blob/main/Output/Leaflet_part_1_output.png">
+<img width="1076" alt="image" src="Output/Leaflet_part_1_output.png">
 
 
 ### Leafelt-part-2: Gather and Plot More Data 
@@ -72,4 +72,4 @@ Put each dataset into separate overlays that can be turned on and off independen
 
 Added layer controls to the map.
 
-<img width="1122" alt="image" src="blob/main/Output/Leaflet_part_2_output.png">
+<img width="1122" alt="image" src="Output/Leaflet_part_2_output.png">
