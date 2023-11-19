@@ -21,10 +21,10 @@ other government organizations (and hopefully secure more funding) on issues fac
 The particular project is  broken into two parts:
 
 Part 1: Create the Earthquake Visualization
-[**Click Here**]( https://ivarvani.github.io/leaflet-challenge/Leaflet-Part-1/index) to explore the web page . <br/>
+[**Click Here**](Leaflet-Part-1/index) to explore the web page . <br/> 
 
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
-[**Click Here**]( https://ivarvani.github.io/leaflet-challenge/Leaflet-Part-2/index) to explore the web page . <br/>
+[**Click Here**](Leaflet-Part-2/index) to explore the web page . <br/>
 
 ### Leafelt-part-1: Create the Earthquake Visualization
 
